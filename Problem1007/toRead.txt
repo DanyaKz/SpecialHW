@@ -1,0 +1,10 @@
+Vladilen Maratov 12 23 4 14 NO
+Afinogen Kadirov 6 6 19 3 NO
+Boleslav Kuzmin 11 7 3 5 NO
+Philip Kunst 15 19 8 4 NO
+Bogdan Alekseyev 15 3 17 11 NO
+Sidor Smith 7 17 18 1 NO
+Maximilian Islamov 5 5 16 17 NO
+Simon Tolstoy 15 17 24 18 YES
+Gavril Kim 24 12 23 23 NO
+Nikita Ahmadiyev 22 1 18 0 YES
