@@ -1,5 +1,6 @@
 package Problem1006;
 
+
 public class Train {
     private int ID;
     private String fromAddress;

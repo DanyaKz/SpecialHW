@@ -1,6 +1,5 @@
 package Problem1006;
 
-import com.sun.source.doctree.SeeTree;
 
 import java.util.*;
 
@@ -10,7 +9,7 @@ public class Main {
     static Set<Train> trains = new TreeSet<Train>(tComp);
 
 
-    private static class TrainComparator implements Comparator<Train>{
+    private static class TrainComparator implements Comparator<Train> {
         @Override
         public int compare(Train t1, Train t2) {
             return t1.getToAddress().compareTo(t2.getToAddress());
