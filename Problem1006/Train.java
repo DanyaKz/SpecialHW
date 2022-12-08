@@ -1,6 +1,6 @@
 package Problem1006;
 
-public class Train implements Comparable<Train>{
+public class Train {
     private int ID;
     private String fromAddress;
     private String toAddress;
@@ -29,8 +29,4 @@ public class Train implements Comparable<Train>{
         return departureTime;
     }
 
-    @Override
-    public int compareTo(Train t) {
-        return this.toAddress.compareTo(t.getToAddress());
-    }
 }
