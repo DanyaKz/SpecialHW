@@ -34,7 +34,7 @@ public class Checkers {
             }
             fis.close();
         } catch (IOException e) {
-            System.out.println(e);
+            throw new RuntimeException(e);
         }
         return data;
     }

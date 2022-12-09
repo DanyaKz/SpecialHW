@@ -26,7 +26,7 @@ public class Main {
             }
             fis.close();
         } catch (IOException e){
-            System.out.println(e);
+            throw new RuntimeException(e);
         }
     }
 
